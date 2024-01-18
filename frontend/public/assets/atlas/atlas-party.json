@@ -1,0 +1,172 @@
+{"frames": {
+
+"misa-back-party-walk.000":
+{
+	"frame": {"x":0,"y":0,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-back-party-walk.001":
+{
+	"frame": {"x":0,"y":52,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-back-party-walk.002":
+{
+	"frame": {"x":0,"y":104,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-back-party-walk.003":
+{
+	"frame": {"x":0,"y":52,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-back-party":
+{
+	"frame": {"x":0,"y":468,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+},
+"misa-front-party-walk.000":
+{
+	"frame": {"x":0,"y":156,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-front-party-walk.001":
+{
+	"frame": {"x":0,"y":208,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-front-party-walk.002":
+{
+	"frame": {"x":0,"y":260,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-front-party-walk.003":
+{
+	"frame": {"x":0,"y":208,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-front-party":
+{
+	"frame": {"x":0,"y":312,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-left-party-walk.000":
+{
+	"frame": {"x":0,"y":720,"w":26,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":50},
+	"sourceSize": {"w":26,"h":50}
+},
+"misa-left-party-walk.001":
+{
+	"frame": {"x":0,"y":668,"w":26,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":52},
+	"sourceSize": {"w":26,"h":52}
+},
+"misa-left-party-walk.002":
+{
+	"frame": {"x":0,"y":518,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+},
+"misa-left-party-walk.003":
+{
+	"frame": {"x":0,"y":668,"w":26,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":52},
+	"sourceSize": {"w":26,"h":52}
+},
+"misa-left-party":
+{
+	"frame": {"x":0,"y":364,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-right-party-walk.000":
+{
+	"frame": {"x":0,"y":568,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+},
+"misa-right-party-walk.001":
+{
+	"frame": {"x":0,"y":416,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-right-party-walk.002":
+{
+	"frame": {"x":0,"y":618,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+},
+"misa-right-party-walk.003":
+{
+	"frame": {"x":0,"y":416,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-right-party":
+{
+	"frame": {"x":0,"y":416,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-party.png",
+	"format": "RGBA8888",
+	"size": {"w":28,"h":770},
+	"scale": "2",
+	"smartupdate": "$TexturePacker:SmartUpdate:b9c7e9f5032f34badad3d74c5967e818:de6e6a10d4d3bec9741261d585d730a2:88ac86b8ffca9067bc9a0c8004f3f019$"
+}
+}

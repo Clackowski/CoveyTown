@@ -1,0 +1,172 @@
+{"frames": {
+
+"misa-back-pirate-walk.000":
+{
+	"frame": {"x":0,"y":184,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+},
+"misa-back-pirate-walk.001":
+{
+	"frame": {"x":0,"y":228,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+},
+"misa-back-pirate-walk.002":
+{
+	"frame": {"x":0,"y":272,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+},
+"misa-back-pirate-walk.003":
+{
+	"frame": {"x":0,"y":228,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+},
+"misa-back-pirate":
+{
+	"frame": {"x":0,"y":316,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+},
+"misa-front-pirate-walk.000":
+{
+	"frame": {"x":0,"y":0,"w":32,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":46},
+	"sourceSize": {"w":32,"h":46}
+},
+"misa-front-pirate-walk.001":
+{
+	"frame": {"x":0,"y":46,"w":32,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":46},
+	"sourceSize": {"w":32,"h":46}
+},
+"misa-front-pirate-walk.002":
+{
+	"frame": {"x":0,"y":92,"w":32,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":46},
+	"sourceSize": {"w":32,"h":46}
+},
+"misa-front-pirate-walk.003":
+{
+	"frame": {"x":0,"y":46,"w":32,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":46},
+	"sourceSize": {"w":32,"h":46}
+},
+"misa-front-pirate":
+{
+	"frame": {"x":0,"y":138,"w":32,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":46},
+	"sourceSize": {"w":32,"h":46}
+},
+"misa-left-pirate-walk.000":
+{
+	"frame": {"x":0,"y":492,"w":32,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":42},
+	"sourceSize": {"w":32,"h":42}
+},
+"misa-left-pirate-walk.001":
+{
+	"frame": {"x":0,"y":360,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+},
+"misa-left-pirate-walk.002":
+{
+	"frame": {"x":0,"y":534,"w":32,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":42},
+	"sourceSize": {"w":32,"h":42}
+},
+"misa-left-pirate-walk.003":
+{
+	"frame": {"x":0,"y":360,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+},
+"misa-left-pirate":
+{
+	"frame": {"x":0,"y":404,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+},
+"misa-right-pirate-walk.000":
+{
+	"frame": {"x":0,"y":576,"w":32,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":42},
+	"sourceSize": {"w":32,"h":42}
+},
+"misa-right-pirate-walk.001":
+{
+	"frame": {"x":0,"y":448,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+},
+"misa-right-pirate-walk.002":
+{
+	"frame": {"x":0,"y":618,"w":32,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":42},
+	"sourceSize": {"w":32,"h":42}
+},
+"misa-right-pirate-walk.003":
+{
+	"frame": {"x":0,"y":448,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+},
+"misa-right-pirate":
+{
+	"frame": {"x":0,"y":448,"w":32,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":44},
+	"sourceSize": {"w":32,"h":44}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-pirate.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":660},
+	"scale": "2",
+	"smartupdate": "$TexturePacker:SmartUpdate:99df1b4cd3e77c7fbdd6cea7e8b68b0c:94bf561294323828c2adc9316556abed:516696d493e87182722812e8fe25495b$"
+}
+}

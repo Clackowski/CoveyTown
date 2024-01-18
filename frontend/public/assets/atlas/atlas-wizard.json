@@ -1,0 +1,172 @@
+{"frames": {
+
+"misa-back-wizard-walk.000":
+{
+	"frame": {"x":0,"y":0,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-back-wizard-walk.001":
+{
+	"frame": {"x":0,"y":52,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-back-wizard-walk.002":
+{
+	"frame": {"x":0,"y":104,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-back-wizard-walk.003":
+{
+	"frame": {"x":0,"y":52,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-back-wizard":
+{
+	"frame": {"x":0,"y":156,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-front-wizard-walk.000":
+{
+	"frame": {"x":0,"y":208,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-front-wizard-walk.001":
+{
+	"frame": {"x":0,"y":260,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-front-wizard-walk.002":
+{
+	"frame": {"x":0,"y":312,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-front-wizard-walk.003":
+{
+	"frame": {"x":0,"y":260,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-front-wizard":
+{
+	"frame": {"x":0,"y":364,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-left-wizard-walk.000":
+{
+	"frame": {"x":0,"y":572,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-left-wizard-walk.001":
+{
+	"frame": {"x":0,"y":416,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-left-wizard-walk.002":
+{
+	"frame": {"x":0,"y":622,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-left-wizard-walk.003":
+{
+	"frame": {"x":0,"y":416,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-left-wizard":
+{
+	"frame": {"x":0,"y":468,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-right-wizard-walk.000":
+{
+	"frame": {"x":0,"y":672,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-right-wizard-walk.001":
+{
+	"frame": {"x":0,"y":520,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-right-wizard-walk.002":
+{
+	"frame": {"x":0,"y":722,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-right-wizard-walk.003":
+{
+	"frame": {"x":0,"y":520,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-right-wizard":
+{
+	"frame": {"x":0,"y":520,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":32,"h":64}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-wizard.png",
+	"format": "RGBA8888",
+	"size": {"w":28,"h":772},
+	"scale": "2",
+	"smartupdate": "$TexturePacker:SmartUpdate:60c86c9004f7ef1978956f99b4b20ece:56d514f2e720a0cbeac6cb35ef3afe2b:4a7faee00f7378ba6dd28b8a99229129$"
+}
+}

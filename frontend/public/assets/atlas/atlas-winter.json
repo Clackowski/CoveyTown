@@ -1,0 +1,172 @@
+{"frames": {
+
+"misa-back-winter-walk.000":
+{
+	"frame": {"x":0,"y":0,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-back-winter-walk.001":
+{
+	"frame": {"x":0,"y":52,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-back-winter-walk.002":
+{
+	"frame": {"x":0,"y":104,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-back-winter-walk.003":
+{
+	"frame": {"x":0,"y":52,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-back-winter":
+{
+	"frame": {"x":0,"y":156,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-front-winter-walk.000":
+{
+	"frame": {"x":0,"y":208,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-front-winter-walk.001":
+{
+	"frame": {"x":0,"y":260,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-front-winter-walk.002":
+{
+	"frame": {"x":0,"y":312,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-front-winter-walk.003":
+{
+	"frame": {"x":0,"y":260,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-front-winter":
+{
+	"frame": {"x":0,"y":364,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-left-winter-walk.000":
+{
+	"frame": {"x":0,"y":520,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+},
+"misa-left-winter-walk.001":
+{
+	"frame": {"x":0,"y":416,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-left-winter-walk.002":
+{
+	"frame": {"x":0,"y":570,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+},
+"misa-left-winter-walk.003":
+{
+	"frame": {"x":0,"y":416,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-left-winter":
+{
+	"frame": {"x":0,"y":468,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":52},
+	"sourceSize": {"w":28,"h":52}
+},
+"misa-right-winter-walk.000":
+{
+	"frame": {"x":0,"y":670,"w":28,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":48},
+	"sourceSize": {"w":28,"h":48}
+},
+"misa-right-winter-walk.001":
+{
+	"frame": {"x":0,"y":620,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+},
+"misa-right-winter-walk.002":
+{
+	"frame": {"x":0,"y":718,"w":28,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":48},
+	"sourceSize": {"w":28,"h":48}
+},
+"misa-right-winter-walk.003":
+{
+	"frame": {"x":0,"y":620,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+},
+"misa-right-winter":
+{
+	"frame": {"x":0,"y":620,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-winter.png",
+	"format": "RGBA8888",
+	"size": {"w":28,"h":766},
+	"scale": "2",
+	"smartupdate": "$TexturePacker:SmartUpdate:05ed80950b85846eba24ad1b0f955b08:c604df736d91bc30b18646287b40d0ae:db2e9874397e07cd1e4fee3a11227608$"
+}
+}

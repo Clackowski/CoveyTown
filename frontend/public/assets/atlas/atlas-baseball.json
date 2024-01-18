@@ -1,0 +1,172 @@
+{"frames": {
+
+"misa-back-baseball-walk.000":
+{
+	"frame": {"x":0,"y":420,"w":28,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":28,"h":42},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-back-baseball-walk.001":
+{
+	"frame": {"x":0,"y":462,"w":28,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":28,"h":42},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-back-baseball-walk.002":
+{
+	"frame": {"x":0,"y":504,"w":28,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":28,"h":42},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-back-baseball-walk.003":
+{
+	"frame": {"x":0,"y":546,"w":28,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":28,"h":42},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-back-baseball":
+{
+	"frame": {"x":0,"y":588,"w":28,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":28,"h":42},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-front-baseball-walk.000":
+{
+	"frame": {"x":0,"y":244,"w":28,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":28,"h":44},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-front-baseball-walk.001":
+{
+	"frame": {"x":0,"y":288,"w":28,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":28,"h":44},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-front-baseball-walk.002":
+{
+	"frame": {"x":0,"y":332,"w":28,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":28,"h":44},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-front-baseball-walk.003":
+{
+	"frame": {"x":0,"y":288,"w":28,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":28,"h":44},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-front-baseball":
+{
+	"frame": {"x":0,"y":376,"w":28,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":28,"h":44},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-left-baseball-walk.000":
+{
+	"frame": {"x":0,"y":84,"w":30,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":30,"h":40},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-left-baseball-walk.001":
+{
+	"frame": {"x":0,"y":0,"w":30,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":30,"h":42},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-left-baseball-walk.002":
+{
+	"frame": {"x":0,"y":124,"w":30,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":30,"h":40},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-left-baseball-walk.003":
+{
+	"frame": {"x":0,"y":0,"w":30,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":30,"h":42},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-left-baseball":
+{
+	"frame": {"x":0,"y":0,"w":30,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":30,"h":42},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-right-baseball-walk.000":
+{
+	"frame": {"x":0,"y":164,"w":30,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":30,"h":40},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-right-baseball-walk.001":
+{
+	"frame": {"x":0,"y":42,"w":30,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":30,"h":42},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-right-baseball-walk.002":
+{
+	"frame": {"x":0,"y":204,"w":30,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":30,"h":40},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-right-baseball-walk.003":
+{
+	"frame": {"x":0,"y":42,"w":30,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":30,"h":42},
+	"sourceSize": {"w":32,"h":64}
+},
+"misa-right-baseball":
+{
+	"frame": {"x":0,"y":42,"w":30,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":30,"h":42},
+	"sourceSize": {"w":32,"h":64}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-baseball.png",
+	"format": "RGBA8888",
+	"size": {"w":30,"h":630},
+	"scale": "2",
+	"smartupdate": "$TexturePacker:SmartUpdate:fe1c4e8eecd666f06b7f9d23a3cf1f94:30d4cce974f7c2831586c0f490205b58:4464f7e551006d03b3272b5f5f1b1a8a$"
+}
+}
